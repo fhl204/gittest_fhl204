@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is gonna go wrong...
 this is gonna go wrong...
+=======
+this is NOT gonna go wrong... TEST TEST
+>>>>>> 519562aa2f1dc405e3645ee1592a2a9967dbdb4e
